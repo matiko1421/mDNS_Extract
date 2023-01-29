@@ -5,3 +5,5 @@ It works by using the PyShark module to
 - open and filter packetcapture to only contain mDNS responses
 - extract device name
 - search for dns_text field and extract the model of the device
+
+Note that you have to install tshark as well.
